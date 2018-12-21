@@ -20,7 +20,7 @@ const data = {
   twitter: chalk.cyan('https://twitter.com/betacar'),
   github: chalk.cyan('https://github.com/betacar'),
   linkedin: chalk.cyan('https://linkedin.com/in/betacar'),
-  web: chalk.cyan('https://betacar.net'),
+  web: chalk.cyan('http://betacar.net'),
   npx: chalk.white('npx betacar'),
   labelWork: chalk.white.bold('      Work:'),
   labelTwitter: chalk.white.bold('   Twitter:'),
